@@ -1,2 +1,1 @@
 # Algorythm
-sorts and script
